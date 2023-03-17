@@ -2,9 +2,7 @@
 
 ---
 
-### Hi there 👋 
-
-I'm Jackey Marine, you can also call me Jackey Zhong.
+### Hi 👋 I'm Jackey Marine, you can also call me Jackey Zhong.
 
 <img src="/cat.gif" alt="GIF" align="right" width="320" height="240" />
 
