@@ -6,7 +6,7 @@
 
 I'm Jackey Marine, you can also call me Jackey Zhong.
 
-<img src="/cat.gif" alt="GIF" align="right" width="260" height="220" />
+<img src="/cat.gif" alt="GIF" align="right" width="320" height="240" />
 
 [![Github](https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/Jackey-Marine)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
