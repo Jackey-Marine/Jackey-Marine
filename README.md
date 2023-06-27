@@ -2,7 +2,7 @@
 
 ---
 
-### Hi 👋 I'm Jackey Marine, you can also call me Jackey Zhong.
+### Hi 👋 I'm Jackey-Marine, you can also call me Jackey Zhong.
 
 <img src="/cat.gif" alt="GIF" align="right" width="320" height="240" />
 
@@ -13,7 +13,7 @@
 
 - 😟 A lab worker who doesn't want to be balding.
 
-- 👨‍💻 An anxious master's student who doesn't want to be replaced by AI.
+- 👨‍💻 An anxious PHD student who doesn't want to be replaced by AI.
 
 - 😼 A big-headed orange cat that vainly attempts to split in the sky.
 
@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently studying at **Zhejiang University, China.**
 
-- 🌱 I’m currently learning **UAV Safety and Artificial Intelligence.**
+- 🌱 I’m currently learning **Unmanned System Safety and Hardware Fuzzing.**
 
 - 🤝 I’m currently working on **CPS Security and Control System Security.**
 
@@ -41,4 +41,7 @@
 
 ### 放弃不难，但坚持一定更酷！ 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackey-Marine&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackey-Marine&rank_icon=github&count_private=true&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackey-Marine&layout=compact)
+
