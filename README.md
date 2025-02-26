@@ -10,10 +10,12 @@
 
 ### About Me
 
-- 🔭 I'm currently studying at **Zhejiang University, China.**
+- :man_student: I'm currently studying at **Zhejiang University, China.**
 
-- 🌱 I'm interested in **Unmanned System Security.**
+- :robot: My research interest includes **Unmanned System Security.**
 
-- 🤝 Welcome communicate with me about everything!
+- :black_joker: **Mahjong** and **Dota2** are my main entertainment.
 
----
+- :smirk_cat: **Soccer** and **Cat** are my hobbies.
+
+- :handshake: Welcome communicate with me about everything!
